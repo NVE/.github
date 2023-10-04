@@ -1,6 +1,6 @@
 ## Velkommen til NVE's Github
 
-Her finner du mye rart, fra kompliserte produkter til studentoppgaver.
+Her finner du mye rart, altt fra større applikasjoner til små eksperimenter.
 Noen prosjekter blir aktivt vedlikeholdt, mye er gammel historie.
 Ikke hån oss om du ser noe som har gått ut på dato. Men om du finner noe som ikke burde være her, er det supert om du tipser oss!
 
