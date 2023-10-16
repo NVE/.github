@@ -1,10 +1,10 @@
 ## Velkommen til NVE's Github
 
-Her finner du mye rart, alt fra små eksperimenter til større applikasjoner.
-Noen prosjekter blir aktivt vedlikeholdt, mye er gammel historie.
-Kvaliteten på innholdet varierer, og du vil sikkert finne en del som ikke ser bra ut. 
-Men om du finner noe som ikke burde være her, er det supert om du tipser oss!
+I våre repositories finner du mye forskjellig, alt fra små eksperimenter til større applikasjoner.
+Noen prosjekter vedlikeholdes ofte, mye er gammel historie.
+Med mange prosjekter og lang historikk kan det hende du finner noe som ikke burde være her, da setter vi pris på om du registrerer en sak på det i Github eller tipser en av bidragsyterne på prosjektet.
 
-Test gjerne noen av API'ene vi tilbyr, se http://api.nve.no/
-NVE har mange spennende ting på gang, og vi søker ofte etter flere utviklere. Se https://www.nve.no/om-nve/jobb-i-nve/ 
+NVE har mye spennende data som vi deler gjennom våre API-er. Se https://api.nve.no/
+
+NVE har et viktig samfunnsoppdrag, og vi søker ofte etter flere utviklere til å hjelpe oss. Se https://www.nve.no/om-nve/jobb-i-nve/ 
 Kanskje vi sees?
